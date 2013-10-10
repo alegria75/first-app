@@ -11,7 +11,7 @@ end
 
 group :development do
   gem 'sqlite3'
-end
+end 
 
 
 # Gems used only for assets and not required
